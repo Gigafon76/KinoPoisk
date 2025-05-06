@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="app_blue">#3D3BFF</color>
+    <color name="app_blue_transparent">#183D3BFF</color>
+    <color name="yellow">#FFD400</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="grey_text">#838390</color>
+    <color name="grey_line">#B5B5C9</color>
+    <color name="film_page_grey_text">#B5B5C9</color>
+    <color name="black_text">#272727</color>
 </resources>
